@@ -14,15 +14,15 @@
     <td>hping3、-a、ping、macchanger</td>
   </tr>
   <tr>
-    <td><a herf="https://github.com/Superliverbun/Newbie-in-Information-Security/blob/main/Password-Crack/dictionary.md">字典檔</a></td>
+    <td><a href="https://github.com/Superliverbun/Newbie-in-Information-Security/blob/main/Password-Crack/dictionary.md">字典檔</a></td>
     <td></td>
   </tr>
     <tr>
-    <td><a herf="https://github.com/Superliverbun/Newbie-in-Information-Security/blob/main/SQL-Injection/Injection_001">SQL Injection</a></td>
+    <td><a href="https://github.com/Superliverbun/Newbie-in-Information-Security/blob/main/SQL-Injection/Injection_001">SQL Injection</a></td>
     <td></td>
   </tr>
     <tr>
-    <td><a herf="https://github.com/Superliverbun/Newbie-in-Information-Security/blob/main/Virus-DIY/Jimmy">Virus DIY</a></td>
+    <td><a href="https://github.com/Superliverbun/Newbie-in-Information-Security/blob/main/Virus-DIY/Jimmy">Virus DIY</a></td>
     <td></td>
   </tr>
     
