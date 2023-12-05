@@ -22,7 +22,7 @@
     <td></td>
   </tr>
     <tr>
-    <td><a href="https://github.com/Superliverbun/Newbie-in-Information-Security/blob/main/Virus-DIY/Jimmy">Virus DIY</a></td>
+    <td><a href="https://github.com/Superliverbun/Newbie-in-Information-Security/blob/main/Virus-DIY/Jimmy.md">Virus DIY</a></td>
     <td></td>
   </tr>
     
